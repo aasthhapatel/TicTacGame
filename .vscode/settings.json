@@ -1,0 +1,11 @@
+{
+    "git.enabled": true,
+    "git.terminalGitEditor": true,
+    "git.verboseCommit": true,
+    "git-graph.repository.fetchAndPruneTags": true,
+    "git-graph.repository.commits.fetchAvatars": true,
+    "git-graph.enhancedAccessibility": true,
+    "git.branchRandomName.enable": true,
+    "git.enableSmartCommit": true,
+    "git.enableStatusBarSync": false
+}
